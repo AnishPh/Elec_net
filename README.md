@@ -32,6 +32,14 @@ Vote directory contains:
 
 Steps to download/implement in your workstation
 1)Install Wamp server 
+2)Install Notepad++
+3)Go into www directory of wamp.(wamp's default directory is in C/programfiles/wamp, unless you have changed it during installation.wamp and wamp64 refer to the same directory.(32 bit or g4 bit))
+4)Paste this Elec_net directory in www directory.
+5)Start your wamp server.
+6)Start your browser(Preferred:Chrome) and go to your localhost site.
+7)Change the url to localhost/Elec_net/home/index.php.
+8)Now open your phpmyadmin console of the wamp server.
+9)Create a new database named 
   
   
   
