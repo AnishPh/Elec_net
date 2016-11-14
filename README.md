@@ -14,6 +14,17 @@ Future implementations:
 •	Collaborate with the government for using the Aadhaar Card database for validating users authenticity during the registrations.
 •	It has also been suggested that the campaigning dates can also be displayed on the site.
 
+
+Wamp server
+Wamp 3.0.4 was used throughout this project
+U can download it from their official site
+Php:any version above 7
+
+
+Sendmail configuratuon
+http://blog.techwheels.net/send-email-from-localhost-wamp-server-using-sendmail/
+
+
 FILESYSTEM
 The main "home" directory is a base directory for this project.
 Some of the file's purposes are explained.
@@ -38,9 +49,14 @@ Steps to download/implement in your workstation
 5)Start your wamp server.
 6)Start your browser(Preferred:Chrome) and go to your localhost site.
 7)Change the url to localhost/Elec_net/home/index.php.
-8)Now open your phpmyadmin console of the wamp server.
-9)Create a new database named 
-  
+8)Click on the admin console below.
+9)Set the dates properly (Order:Registration then voting and then result)
+10)Navigate to the registration page and then register a candiate as well as a voter.
+11)The password is sent to the email address that you had given during registration.
+12)Login and Vote (change dates from admin console if required)
+13)Go the announcements page and check the result.(change dates from admin console if required)
+14)Thank you
+If you have any problems u can always pm me at delta501405@gmail.com
   
   
 
