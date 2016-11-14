@@ -18,7 +18,7 @@ Future implementations:
 Wamp server
 Wamp 3.0.4 was used throughout this project
 U can download it from their official site
-Php:any version above 7
+Php any version above 7
 
 
 Sendmail configuratuon
@@ -48,14 +48,15 @@ Steps to download/implement in your workstation
 4)Paste this Elec_net directory in www directory.
 5)Start your wamp server.
 6)Start your browser(Preferred:Chrome) and go to your localhost site.
-7)Change the url to localhost/Elec_net/home/index.php.
-8)Click on the admin console below.
-9)Set the dates properly (Order:Registration then voting and then result)
-10)Navigate to the registration page and then register a candiate as well as a voter.
-11)The password is sent to the email address that you had given during registration.
-12)Login and Vote (change dates from admin console if required)
-13)Go the announcements page and check the result.(change dates from admin console if required)
-14)Thank you
+7)Go to localhost/Elec_net/home/db.php and you will get output as "Connected successfullyDatabase created successfully Table info created successfully Table info1 created successfullyTable dates created successfully".(db.php is used for creating all required databases and tables).
+8)Change the url to localhost/Elec_net/home/index.php.
+9)Click on the admin console below.
+10)Set the dates properly (Order:Registration then voting and then result)
+11)Navigate to the registration page and then register a candiate and then as a voter.
+12)The password is sent to the email address that you had given during registration.
+13)Login and Vote (change dates from admin console if required)
+14)Go the announcements page and check the result.(change dates from admin console if required)
+Thank you
 If you have any problems u can always pm me at delta501405@gmail.com
   
   
