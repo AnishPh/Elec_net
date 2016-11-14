@@ -57,6 +57,7 @@ Steps to download/implement in your workstation
 13)Login and Vote (change dates from admin console if required)
 14)Go the announcements page and check the result.(change dates from admin console if required)
 Thank you
+Also please refer to the Screenshots present at home/screenshots/screenshots.docx.
 If you have any problems u can always pm me at delta501405@gmail.com
   
   
